@@ -36,7 +36,7 @@ tr:nth-child(even){background-color: #f2f2f2}
 tr:hover{background-color:#f5f5f5}
 </style>
 <script>
-   var fname = "D:\__Process Models\SMARTree\__GIT\Local Repositories\SMARTree Templates\SMARTree_Process Templates\TUFF_Master_Controller_G1.xml";   var date_create = "11/19/2017 3:55:01 AM";   var date_mod = "11/18/2017:11:15 PM";   var usr = "jtierney";   var info = "writable , visible";</script>
+   var fname = "D:\__Process Models\SMARTree\__GIT\Local Repositories\SMARTree Templates\SMARTree_Process Templates\TUFF_Master_Controller_G1.xml";   var date_create = "11/19/2017 2:37:09 PM";   var date_mod = "11/19/2017:9:39 AM";   var usr = "jtierney";   var info = "writable , visible";</script>
 </head>
   <body>
   <h3> SMARTree Data file </h3>
@@ -108,7 +108,7 @@ tr:hover{background-color:#f5f5f5}
     <SMARTree_information mems='5'>
       <file_version type='String'>1.010000</file_version>
       <user type='String'>Enter User Name</user>
-      <date type='String'>11/18/2017:11:15 PM</date>
+      <date type='String'>11/19/2017:9:39 AM</date>
       <key type='String'>null</key>
       <Tags dim='[1]' type='String'>
         <tag> </tag>
@@ -159,7 +159,7 @@ tr:hover{background-color:#f5f5f5}
         <parent type='String'>Process Run Information</parent>
         <name type='String'> 	Operator</name>
         <type type='String'>Text</type>
-        <data type='String'>John Tierney</data>
+        <data type='String'>Johnny</data>
         <reference type='String'></reference>
         <parameters type='String'></parameters>
         <symbol type='String'>13</symbol>
@@ -169,9 +169,9 @@ tr:hover{background-color:#f5f5f5}
         <upper_limit type='String'></upper_limit>
         <precision type='String'></precision>
         <created type='String'></created>
-        <modified type='String'> 11:15:14 PM 11/18/2017</modified>
+        <modified type='String'> 09:39:30 AM 11/19/2017</modified>
         <user type='String'></user>
-        <key type='String'>open,open,</key>
+        <key type='String'>open,0,0</key>
         <parent_tag type='String'>Process Run Information</parent_tag>
         <name_tag type='String'>Operator</name_tag>
       </elements>
@@ -191,7 +191,7 @@ tr:hover{background-color:#f5f5f5}
         <created type='String'></created>
         <modified type='String'>12:23:03 PM 11/01/2017</modified>
         <user type='String'></user>
-        <key type='String'>open,0,0</key>
+        <key type='String'>open,open,</key>
         <parent_tag type='String'>Process Run Information</parent_tag>
         <name_tag type='String'>Machine ID</name_tag>
       </elements>
